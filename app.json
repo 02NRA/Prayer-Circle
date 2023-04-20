@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "cranky-popsicle",
-    "slug": "snack-550f512d-859a-4dba-b7e5-a1396a723797",
+    "slug": "prayer-chain",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.aidanhubley.snack550f512d859a4dbab7e5a1396a723797"
     },
     "web": {
       "favicon": "./assets/favicon.png"
